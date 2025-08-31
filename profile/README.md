@@ -1,3 +1,3 @@
-# Event Horizon 🌌
+# PhotonRing 🌌
 
-Event Horizon is focused on creating web applications.
+PhotonRing is focused on creating web applications.
